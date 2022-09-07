@@ -1,1 +1,1 @@
-This is shell variables and expansion
+this is for shell variables
