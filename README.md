@@ -1,1 +1,1 @@
-This is getting advanced
+i just started shell scripting
