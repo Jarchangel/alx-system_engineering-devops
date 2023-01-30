@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
-# Displays a list of currently running processes, inluding those without TTY, in a user oriented format with process hierarchy
-
-ps -ejH
-
+# Displays a list of currently running processes
+ps -aufx
